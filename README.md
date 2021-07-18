@@ -1,2 +1,2 @@
-# DataStructuctures-And-Aldorithms
+# DataStructuctures-And-Algorithms
 Problem Solving
