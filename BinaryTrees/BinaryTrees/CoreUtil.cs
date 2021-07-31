@@ -176,6 +176,49 @@ namespace BinaryTrees
             return true;
         }
 
+
+        public static void RecoverTree(TreeNode root)
+        {
+            root = Helper(root, int.MinValue, int.MaxValue);
+
+        }
+        public static TreeNode Helper(TreeNode root, int min, int max)
+        {
+            if (root == null) return root;
+
+            if (root.left != null)
+            {
+                //TreeNode left =
+                    Helper(root.left, min, root.data);
+                //if (left.data > min)
+                //{
+                //    left.data = min;
+                //}
+            }
+
+            if (root.data <= min)
+            {
+                min = root.data;
+            }
+
+            if (root.data >= max)
+            {
+                max = root.data;
+            }
+
+            if (root.right != null)
+            {
+                 Helper(root.right, root.data, max);
+                //TreeNode right =
+                //if (right.data < max)
+                //{
+                //    right.data = max;
+                //}
+            }
+
+            return root;
+        }
+
         public static int LeastCommonAncestorIterative(TreeNode root,int n1, int n2)
         {
             if (root == null) return 0;

@@ -115,6 +115,14 @@ namespace BinaryTrees
             int[] arr = { 1, 2, 3, 4, 5 };
             TreeNode n = CoreUtil.CreateBst(arr);
             CoreUtil.PrintNodes(n);
+
+            Console.WriteLine("Recover Tree");
+            TreeNode root9 = new TreeNode(1);
+            root9.left = new TreeNode(3);
+            root9.left.right = new TreeNode(2);
+
+            CoreUtil.RecoverTree(root9);
+
         }
     }
 }

@@ -11,3 +11,16 @@ C:\Users\Tech Jargon\source\repos\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.
 C:\Users\Tech Jargon\source\repos\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.dll
 C:\Users\Tech Jargon\source\repos\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.pdb
 C:\Users\Tech Jargon\source\repos\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.genruntimeconfig.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\bin\Debug\netcoreapp3.1\BinaryTrees.exe
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\bin\Debug\netcoreapp3.1\BinaryTrees.deps.json
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\bin\Debug\netcoreapp3.1\BinaryTrees.runtimeconfig.json
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\bin\Debug\netcoreapp3.1\BinaryTrees.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\bin\Debug\netcoreapp3.1\BinaryTrees.dll
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\bin\Debug\netcoreapp3.1\BinaryTrees.pdb
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.AssemblyInfo.cs
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.dll
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.pdb
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\BinaryTrees\BinaryTrees\obj\Debug\netcoreapp3.1\BinaryTrees.genruntimeconfig.cache

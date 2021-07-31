@@ -11,3 +11,16 @@ C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Aldorithms\Graphs\Graphs\obj\
 C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Aldorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.dll
 C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Aldorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.pdb
 C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Aldorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.genruntimeconfig.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.exe
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.deps.json
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.json
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.dev.json
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfo.cs
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\Tech Jargon\Desktop\DataStructuctures-And-Algorithms\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.genruntimeconfig.cache

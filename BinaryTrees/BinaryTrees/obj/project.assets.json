@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tech Jargon\\source\\repos\\BinaryTrees\\BinaryTrees\\BinaryTrees.csproj",
+      "projectUniqueName": "C:\\Users\\Tech Jargon\\Desktop\\DataStructuctures-And-Algorithms\\BinaryTrees\\BinaryTrees\\BinaryTrees.csproj",
       "projectName": "BinaryTrees",
-      "projectPath": "C:\\Users\\Tech Jargon\\source\\repos\\BinaryTrees\\BinaryTrees\\BinaryTrees.csproj",
+      "projectPath": "C:\\Users\\Tech Jargon\\Desktop\\DataStructuctures-And-Algorithms\\BinaryTrees\\BinaryTrees\\BinaryTrees.csproj",
       "packagesPath": "C:\\Users\\Tech Jargon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tech Jargon\\source\\repos\\BinaryTrees\\BinaryTrees\\obj\\",
+      "outputPath": "C:\\Users\\Tech Jargon\\Desktop\\DataStructuctures-And-Algorithms\\BinaryTrees\\BinaryTrees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

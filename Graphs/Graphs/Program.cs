@@ -34,6 +34,25 @@ namespace Graphs
                                       { 0, 0, 2, 0, 0, 0, 6, 7, 0 } };
 
             ShortestPath_Dijkstra.dijkstra(graph, 0);
+
+            Graph g1 = new Graph(5);
+            g1.AddEdge(1, 0);
+            g1.AddEdge(0, 2);
+            g1.AddEdge(2, 1);
+            g1.AddEdge(0, 3);
+            g1.AddEdge(3, 4);
+
+            DetectCycle detectCycle = new DetectCycle(g1);
+
+            if (detectCycle.IsCycle(5))
+            {
+                Console.WriteLine("The graph contains a cycle");
+            }
+            else
+            {
+                Console.WriteLine("The graph doesnt contain a cycle");
+            }
+
         }
     }
 }

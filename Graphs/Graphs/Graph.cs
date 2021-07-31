@@ -9,6 +9,11 @@ namespace Graphs
         private int vertices;
         private LinkedList<int>[] adj;
 
+        public LinkedList<int>[] getAdj
+        {
+            get { return adj; }
+        }
+
         public Graph(int v)
         {
             vertices = v;
