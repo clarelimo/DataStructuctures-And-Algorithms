@@ -6,6 +6,7 @@ namespace Graphs
 {
     public class DetectCycle
     {
+        // undirected graph
         Graph graph;
         LinkedList<int>[] adj;
         public DetectCycle(Graph graph)

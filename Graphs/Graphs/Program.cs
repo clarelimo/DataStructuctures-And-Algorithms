@@ -53,6 +53,20 @@ namespace Graphs
                 Console.WriteLine("The graph doesnt contain a cycle");
             }
 
+            Graph g3 = new Graph(8);
+            g3.AddEdge(0, 1);
+            g3.AddEdge(0, 3);
+            g3.AddEdge(1, 2);
+            g3.AddEdge(3, 4);
+            g3.AddEdge(3, 7);
+            g3.AddEdge(4, 5);
+            g3.AddEdge(5, 6);
+            g3.AddEdge(4, 7);
+            g3.AddEdge(5, 6);
+            g3.AddEdge(6, 7);
+
+            ShortestDistance_BFS bfs = new ShortestDistance_BFS(g3);
+            bfs.shortestPath(8,0);
         }
     }
 }
